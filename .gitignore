@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+npm-debug.log*
+
+# Env files (never commit real secrets)
+.env
+.env.local
+!.env.example
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
