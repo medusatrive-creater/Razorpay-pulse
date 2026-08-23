@@ -5,7 +5,7 @@
 
 **Live demo:** `https://razorpay-pulse-frontend-212225425691.us-central1.run.app/`
 **API docs:** `https://razorpay-pulse-backend-dvl3ckn67q-uc.a.run.app/docs`
-**Repo:** *(attach zip or link)*
+**Repo:** `https://github.com/medusatrive-creater/Razorpay-pulse`
 
 ---
 
