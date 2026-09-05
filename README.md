@@ -137,7 +137,7 @@ gcloud projects add-iam-policy-binding <PASTE_PROJECT_ID> \
 
 ---
 
-## Adding real Razorpay Test/Sandbox data (the one remaining gap)
+## Adding real Razorpay Test/Sandbox data
 
 Currently every transaction is simulated. To layer in real Razorpay test-mode transactions alongside the simulator:
 
